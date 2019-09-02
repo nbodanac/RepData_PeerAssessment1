@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 Assignment Week 2: Reproducable research 
 ===============
 *What is mean total number of steps taken per day?*
